@@ -1,4 +1,4 @@
-# Data Jobs Dashboard Power BI
+# Data Job Dashboard Power BI
 
 
   <img src="images/DashBoard.png" width="600" alt="Data Jobs Dashboard ">
